@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "4800903752",
+    "project_id": "unite-c9161",
+    "storage_bucket": "unite-c9161.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4800903752:android:6504dd82b4b89b66ffb67d",
+        "android_client_info": {
+          "package_name": "com.example.unite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXGjMhpuyqqit1YacN8J1R_3Ol5K8U8nc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
